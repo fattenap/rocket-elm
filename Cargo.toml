@@ -1,0 +1,7 @@
+[package]
+name = "rocket-elm"
+version = "0.1.0"
+
+[dependencies]
+rocket = "0.2.8"
+rocket_codegen = "0.2.8"
